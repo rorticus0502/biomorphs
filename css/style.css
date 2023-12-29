@@ -8,5 +8,22 @@
 .display {
 	height: 30vh;
 	width: 30vw;
-	background-color: black;
+	
+}
+
+.screen-wrapper {
+	height: 80%;
+	width: 100%;
+	border: 1px solid #34495E;
+	border-radius: 10px;
+	background-color: #5D6D7E;
+}
+
+.btn-wrapper {
+	display: flex;
+	width: 100%;
+}
+
+.display button {
+	margin: 5px auto;
 }
