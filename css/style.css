@@ -1,0 +1,12 @@
+#display-wrapper {
+	width: 100%;
+	display: grid;
+	grid-template-columns: 33% 33% 33%;
+	grid-gap: 10px;
+}
+
+.display {
+	height: 30vh;
+	width: 30vw;
+	background-color: black;
+}
